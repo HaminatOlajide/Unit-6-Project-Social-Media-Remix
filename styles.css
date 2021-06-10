@@ -1,0 +1,167 @@
+img {
+    height: 130px;
+}
+
+.bluecheck {
+    width: 50px;
+    height: 50px;
+}
+
+body {
+    background-color: black;
+}
+
+.circle {
+    border-radius: 100%;
+    width: 130px;
+    border: 10px dotted #E1306C;
+}
+
+.con {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.container1 {
+    padding: 5px;
+    background-color: black;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.container2 {
+    padding: 5px;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    width: 40px;
+}
+
+.container3 {
+    padding: 3px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    width: 90px;
+    font-family: bold;
+}
+
+.container4 {
+    padding: 3px;
+    background-color: black;
+    display: flex;
+    justify-content: flex-end;
+    width: 30px;
+}
+
+h1 {
+    color: white;
+    font-family: bold;
+}
+
+p {
+    color: white;
+    font-family: bold;
+}
+
+h2 {
+    color: white;
+}
+
+a {
+    color: skyblue;
+}
+
+.post1 {
+    display: flex;
+    width: 600px;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 6px;
+    border: 10px solid lightgrey;
+
+}
+
+.post2 {
+    display: flex;
+    width: 630px;
+    justify-content: space-between;
+    margin: 19px;
+    padding: 6px;
+    border: 10px solid lightgrey;
+
+}
+
+.post3 {
+    display: flex;
+    width: 670px;
+    justify-content: space-between;
+    margin: 5px;
+    padding: 10px;
+    border: 10px solid lightgrey;
+
+}
+
+.follow {
+    background-color: #405DE6;
+    color: white;
+}
+
+.suggest {
+    background-color: grey;
+}
+
+.button34 {
+    display: flex;
+    justify-content: center;
+}
+
+.foryou {
+    font-family: bold;
+    text-align: center;
+}
+
+.suggest1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.friends1 {
+    display: none;
+}
+
+.button34 {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+.famenames1 {
+    display: flex;
+
+    justify-content: space-around;
+}
+
+.ten {
+    display: flex;
+    flex-direction: column;
+}
+
+.up {
+    background-color: grey;
+
+}
+
+.suggest2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.famenames2 {
+    display: flex;
+
+    justify-content: space-around;
+}
